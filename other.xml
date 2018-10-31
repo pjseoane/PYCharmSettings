@@ -1,0 +1,47 @@
+<application>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python36_64\python.exe" value="false" />
+        <entry key="C:\Users\pauli\Documents\PyCharmTest\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\pauli\PycharmProjects\untitled\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\pseoane\AppData\Local\Continuum\anaconda3\python.exe" value="true" />
+        <entry key="C:\Users\pseoane\Documents\Python Projects\OptionModels\venv\Scripts\python.exe" value="true" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python36_64\python.exe" value="false" />
+        <entry key="C:\Users\pauli\PycharmProjects\untitled\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\pseoane\AppData\Local\Continuum\anaconda3\python.exe" value="true" />
+        <entry key="C:\Users\pseoane\Documents\Python Projects\OptionModels\venv\Scripts\python.exe" value="true" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python36_64\python.exe" value="false" />
+        <entry key="C:\Users\pauli\PycharmProjects\untitled\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\pseoane\AppData\Local\Continuum\anaconda3\python.exe" value="false" />
+        <entry key="C:\Users\pseoane\Documents\Python Projects\OptionModels\venv\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentTaskRepositories">
+    <GitHub shared="false" url="https://github.com">
+      <option name="assignedIssuesOnly" value="false" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password />
+      <token />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="repoAuthor" value="pjseoane" />
+      <option name="repoName" value="OptionModelsV3" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <option name="user" value="" />
+      <username />
+    </GitHub>
+  </component>
+</application>
