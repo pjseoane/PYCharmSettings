@@ -1,5 +1,5 @@
 <application>
   <component name="RSettings">
-    <option name="interpreterPath" value="C:\Program Files (x86)\Microsoft Visual Studio\Shared\Anaconda3_64\python.exe" />
+    <option name="interpreterPath" value="C:\Program Files\RStudio\bin" />
   </component>
 </application>

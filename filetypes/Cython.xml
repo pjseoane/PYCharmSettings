@@ -1,0 +1,12 @@
+<filetype binary="false" description="Cython files" name="Cython">
+  <highlighting>
+    <options>
+      <option name="LINE_COMMENT" value="#" />
+      <option name="COMMENT_START" value="&quot;&quot;" />
+      <option name="COMMENT_END" value="&quot;&quot;" />
+      <option name="HEX_PREFIX" value="" />
+      <option name="NUM_POSTFIXES" value="" />
+    </options>
+    <keywords keywords="cdef;cimport;ctypedef;def;for;if;import;return" ignore_case="false" />
+  </highlighting>
+</filetype>
