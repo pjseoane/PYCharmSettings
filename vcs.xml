@@ -14,8 +14,12 @@
           <option name="url" value="https://github.com/pjseoane/Options2019.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/pjseoane/ROFEXv2.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\pseoane\Documents\Python Projects" />
+    <option name="cloneParentDir" value="C:\Users\pauli\Documents\Python Projects" />
   </component>
 </application>
