@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="loginData" type="PLAIN_TEXT" />
+      <mapping pattern="RofexLogin" type="PLAIN_TEXT" />
       <mapping pattern="loginREST" type="Python" />
       <mapping pattern="cRatio" type="Python" />
       <mapping ext="pyx" type="Python" />
