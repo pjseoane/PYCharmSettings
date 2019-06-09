@@ -8,6 +8,7 @@
       <mapping pattern="ContractsToSuscript.cfg" type="PLAIN_TEXT" />
       <mapping pattern="RofexLogin" type="PLAIN_TEXT" />
       <mapping pattern="loginREST" type="Python" />
+      <mapping pattern="cSymbols2py" type="Python" />
       <mapping pattern="cRatio" type="Python" />
       <mapping ext="pyx" type="Python" />
       <mapping ext="fnc" type="DBN-PSQL" />
