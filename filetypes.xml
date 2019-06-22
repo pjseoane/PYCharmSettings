@@ -5,11 +5,13 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="ContractsToSuscript" type="Ini" />
       <mapping pattern="loginData" type="PLAIN_TEXT" />
-      <mapping pattern="ContractsToSuscript.cfg" type="PLAIN_TEXT" />
       <mapping pattern="RofexLogin" type="PLAIN_TEXT" />
+      <mapping pattern="ContractsToSuscript.cfg" type="PLAIN_TEXT" />
+      <mapping ext="body" type="PLAIN_TEXT" />
+      <mapping ext="header" type="PLAIN_TEXT" />
+      <mapping pattern="cRatio" type="Python" />
       <mapping pattern="loginREST" type="Python" />
       <mapping pattern="cSymbols2py" type="Python" />
-      <mapping pattern="cRatio" type="Python" />
       <mapping ext="pyx" type="Python" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
